@@ -1,1 +1,2 @@
-O projeto vai ser desenvolvido aqui
+O projeto vai ser desenvolvido aqui \n
+Novo projeto
